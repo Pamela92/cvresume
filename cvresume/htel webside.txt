@@ -1,0 +1,63 @@
+<head>
+<meta charset="utf-8">
+<meta name="viewport"content="width=device=width,user-scalable=no,initial-scale=1.8,maximum-scale=1.0,minimum-scale=1.8">
+<meta http-equiv="X-UA-Compatible"content="ie=edge">
+<title>travelix</title>
+</head>
+<body>
+<header class="header">
+<div class="container">
+<nav class="nav">
+<a href="index.html" class="logo">
+<img src="image/logo.png" alt="" class="logo-image">
+</a>
+<div class="hamburg-menu">
+<i class="fas fa-bars open-state"></i>
+<i class="fas fa-bars close-state"></i>
+</div>
+<ul class="nav-list">
+<li class=nav-item">
+<ahref="#" class="nav-link">Home</a>
+</li>
+<li class="nav-item">
+<ahref="#" class="nav-link">About</a>
+<li class="nav-item">
+<ahref="#" class="nav-link">Offers</a>
+<li class="nav-item">
+<ahref="#" class="nav-link">News</a>
+<li class="nav-item">
+<ahref="#" class="nav-link">Contact</a>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<main>
+<div class="hero">
+<div class="container">
+<div class="main-heading">
+<h1 class="title">Discover</h1>
+<h2 class="subtitle">Luxury hotels</h2>
+</div>
+<a href="#" class="btn btn-gradient">Explore now
+<span class="dots"><i class="fas fa-ellipsis-h"></i></span>
+
+</a>
+</div>
+</div>
+</main>
+ <script src="main.js"></script>
+</body>
+</html>
+
+
+
+
+
+SCSS
+
+html {
+
+font-size:10px;
+}
+body{
